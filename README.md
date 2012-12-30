@@ -1,3 +1,3 @@
 blackenedstrang.github.com
 ==========================
-blackenedstrang.github.com
+http://blackenedstrang.github.com
